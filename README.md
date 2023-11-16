@@ -1,3 +1,5 @@
+# THIS IS THE ORIGINAL READ-ME FROM MARYIA
+# I HAVE ONLY CHANGED THE CODE
 # SimpleSMSspamFilter_GUI
 The GUI Version of Simple SMS Spam Filter created with DearPy GUI
 <br>
